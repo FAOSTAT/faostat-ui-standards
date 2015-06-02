@@ -1,3 +1,6 @@
 [submodule "submodules/faostat-ui-standards-methodology"]
 	path = submodules/faostat-ui-standards-methodology
 	url = https://github.com/FAOSTAT4/faostat-ui-standards-methodology.git
+[submodule "submodules/faostat-ui-standards-classifications"]
+	path = submodules/faostat-ui-standards-classifications
+	url = https://github.com/FAOSTAT4/faostat-ui-standards-classifications.git
