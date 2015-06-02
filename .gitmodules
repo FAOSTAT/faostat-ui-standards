@@ -10,3 +10,6 @@
 [submodule "submodules/faostat-ui-standards-glossary"]
 	path = submodules/faostat-ui-standards-glossary
 	url = https://github.com/FAOSTAT4/faostat-ui-standards-glossary.git
+[submodule "submodules/faostat-ui-standards-abbreviations"]
+	path = submodules/faostat-ui-standards-abbreviations
+	url = https://github.com/FAOSTAT4/faostat-ui-standards-abbreviations.git
